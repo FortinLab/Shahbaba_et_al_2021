@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/419071491.svg)](https://zenodo.org/badge/latestdoi/419071491)
+
 # Hippocampal ensembles represent sequential relationships among an extended sequence of nonspatial events
 
 [Babak Shahbaba](https://www.ics.uci.edu/~babaks/), [Lingge Li](https://github.com/modestbayes), [Forest Agostinelli](https://cse.sc.edu/~foresta/), [Mansi Saraf](https://www.linkedin.com/in/mansi-saraf-a06a581a0/), [Keiland W. Cooper](https://github.com/kwcooper), [Derenik Haghverdian](https://github.com/Derenik-H), [Gabriel A. Elias](https://github.com/gaelias), [Pierre Baldi](https://www.igb.uci.edu/~pfbaldi/) & [Norbert J. Fortin](https://fortinlab.bio.uci.edu/FortinLab/) 
