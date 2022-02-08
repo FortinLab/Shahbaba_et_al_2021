@@ -7,7 +7,7 @@
 
 For associated data, please see our repository [here](https://datadryad.org/stash/dataset/doi:10.7280/D14X30)
 
-for more information, please see the [manuscript](https://doi.org/10.1038/s41467-022-28057-6)
+For questions or more information, please refer to the [manuscript](https://doi.org/10.1038/s41467-022-28057-6) or send a message to `kwcooper`@`uci`.`edu`
 
 
 
